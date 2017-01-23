@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Resources/open.png</file>
+        <file>Resources/save.png</file>
+        <file>Resources/save_as.png</file>
+        <file>Resources/new.png</file>
+        <file>Resources/orbital-sciences-corporation.jpg</file>
+        <file>Resources/1.png</file>
+        <file>Resources/2.png</file>
+        <file>Resources/3.png</file>
+    </qresource>
+</RCC>
